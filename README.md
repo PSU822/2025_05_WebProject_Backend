@@ -3,6 +3,7 @@
 ## 개요
 
 강의실 예약/관리 시스템의 REST API 백엔드
+이전 next.js 기반 js 백엔드 코드 -> springBoot 재작성 버전
 
 ## API 엔드포인트
 
